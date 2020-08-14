@@ -1,7 +1,7 @@
 ## Face recognition using FaceNet model
 
 ### Introduction
-Face recognition using Neural Network. Neural Network is implemented using [Keras](https://keras.io/) functional API, that makes it easy to experiment with different architectures. The input of Neural Network is 128 dimensional vector.
+Face recognition using Neural Network. Neural Network is implemented using [Keras](https://keras.io/) functional API, that makes it easy to experiment with different architectures. The input of Neural Network is 128 dimensional vector. Haar Cascade has been used to detect faces.
 
 
 ### Model
