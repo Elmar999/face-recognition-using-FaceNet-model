@@ -34,4 +34,4 @@ If you want to train with your own custom images, you have to prepare your own d
 
 ### Result 
 
-<img src="./test_images/result.png" style="max-width:100%;">
+<img src="./result.png" style="max-width:100%;">
